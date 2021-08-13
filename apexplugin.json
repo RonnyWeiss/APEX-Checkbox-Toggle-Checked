@@ -27,7 +27,7 @@
                 "internalName": "RW.APEX.ITEM.CHECKBOX.TOGGLE",
                 "type": "dynamic action",
                 "demo": "https://apex.oracle.com/pls/apex/f?p=103428",
-                "previewImage": "https://github.com/RonnyWeiss/APEX-Checkbox-Toggle-Checked/raw/master/screenshot.gif"
+                "previewImage": "https://raw.githubusercontent.com/RonnyWeiss/APEX-Checkbox-Toggle-Checked/main/screenshot.gif"
             }
         }
     }

@@ -1,6 +1,6 @@
  # APEX Checkbox toggle Checked
 
-![Screenshot](https://github.com/RonnyWeiss/APEX-Checkbox-Toggle-Checked/blob/master/screenshot.gif?raw=true)
+![Screenshot](https://raw.githubusercontent.com/RonnyWeiss/APEX-Checkbox-Toggle-Checked/main/screenshot.gif)
 
 This Oracle APEX plug-in is used to check or uncheck all items of a checkbox item
 
