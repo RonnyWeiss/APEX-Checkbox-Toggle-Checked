@@ -1,0 +1,34 @@
+{
+    "name": "APEX Checkbox toggle Checked",
+    "version": "1.0",
+    "description": "This plug-in is used to check or uncheck all items of a checkbox item",
+    "keywords": ["oracle", "apex", "plugin", "dynamic action", "item", "checkbox"],
+    "homepage": "https://github.com/RonnyWeiss/APEX-Checkbox-toggle-Checked",
+    "bugs": {
+        "url": "https://github.com/RonnyWeiss/APEX-Checkbox-toggle-Checked",
+        "email": "wronny@gmx.de"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Ronny Weiß",
+        "email": "wronny@gmx.de",
+        "twitter": "ronny_weiss_",
+        "donationUrl": "https://www.paypal.me/RonnyW1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RonnyWeiss/APEX-Checkbox-toggle-Checked.git"
+    },
+    "oracle": {
+        "versions": ["12.1.0.1", "12.2.0.1", "18.4.0.0", "19.0.0.0.0", "19.2.0.0.19", "21.0.0.0.0", "21.1.0.0.0", "21.1.0.0.1"],
+        "apex": {
+            "versions": ["5.1.3", "18.1.0.00.45", "18.2.0.00.12", "19.1.0.00.15", "19.2.0.00.18", "20.1.0.00.13"],
+            "plugin": {
+                "internalName": "RW.APEX.ITEM.CHECKBOX.TOGGLE",
+                "type": "dynamic action",
+                "demo": "https://apex.oracle.com/pls/apex/f?p=103428",
+                "previewImage": "https://github.com/RonnyWeiss/APEX-Checkbox-toggle-Checked/raw/master/screenshot.gif"
+            }
+        }
+    }
+}
