@@ -1,6 +1,6 @@
 {
     "name": "APEX Checkbox toggle Checked",
-    "version": "1.0",
+    "version": "1.1",
     "description": "This plug-in is used to check or uncheck all items of a checkbox item",
     "keywords": ["oracle", "apex", "plugin", "dynamic action", "item", "checkbox"],
     "homepage": "https://github.com/RonnyWeiss/APEX-Checkbox-Toggle-Checked",
