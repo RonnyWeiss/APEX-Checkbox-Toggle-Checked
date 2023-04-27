@@ -1,7 +1,7 @@
 {
     "name": "APEX Checkbox toggle Checked",
     "version": "1.1",
-    "description": "This plug-in is used to check or uncheck all items of a checkbox item",
+    "description": "This plug-in is used to check or uncheck all items of a checkbox item.<p><b>Important clarification: My work in the development team of Oracle APEX is in no way related to my open source projects or the plug-ins here on apex.world! All plug-ins are built in my spare time and are not supported by Oracle!</b></p>",
     "keywords": ["oracle", "apex", "plugin", "dynamic action", "item", "checkbox"],
     "homepage": "https://github.com/RonnyWeiss/APEX-Checkbox-Toggle-Checked",
     "bugs": {
@@ -20,9 +20,9 @@
         "url": "https://github.com/RonnyWeiss/APEX-Checkbox-Toggle-Checked.git"
     },
     "oracle": {
-        "versions": ["12.1.0.1", "12.2.0.1", "18.4.0.0", "19.0.0.0.0", "19.2.0.0.19", "21.0.0.0.0", "21.1.0.0.0", "21.1.0.0.1"],
+        "versions": ["12.2.0.1", "18.4.0.0", "19.0.0.0.0", "19.2.0.0.19", "21.0.0.0.0", "21.1.0.0.0", "21.1.0.0.1"],
         "apex": {
-            "versions": ["5.1.3", "18.1.0.00.45", "18.2.0.00.12", "19.1.0.00.15", "19.2.0.00.18", "20.1.0.00.13"],
+            "versions": ["18.1.0.00.45", "18.2.0.00.12", "19.1.0.00.15", "19.2.0.00.18", "20.1.0.00.13", "20.2.0.00.20", "21.1.0", "21.2.0", "22.1.0", "22.2.0", "23.1.0"],
             "plugin": {
                 "internalName": "RW.APEX.ITEM.CHECKBOX.TOGGLE",
                 "type": "dynamic action",
